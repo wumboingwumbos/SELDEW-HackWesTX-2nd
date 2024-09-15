@@ -1,4 +1,4 @@
-# HackathonWaterTracker
+# HackathonWaterTracker, 2nd Place overall HackWesTX 2024!!!
 Water use tracker demo for Hackathon
 ![alt text](https://github.com/wumboingwumbos/HackathonWaterTracker/blob/main/location_grouped%20(1).png)
 ![alt text](https://github.com/wumboingwumbos/HackathonWaterTracker/blob/main/name_grouped%20(1).png)
